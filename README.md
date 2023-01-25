@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Peylix
+- 👋 Hi, I’m @peylix
 - 👀 I’m interested in everything.
 - 🌱 I’m currently learning some basic knowledage.
 - 💞️ I’m looking to collaborate on ...
