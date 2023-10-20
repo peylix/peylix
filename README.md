@@ -4,7 +4,7 @@
 - 📫 How to reach me: lisichen_2901@outlook.com or chensi.li@ucdconnect.ie
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peylix&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://komarev.com/ghpvc/?username=peylix&style=flat&color=green)
 
 <!---
 - 💞️ I’m looking to collaborate on ...
