@@ -6,7 +6,7 @@
   
 ![](https://komarev.com/ghpvc/?username=peylix&style=flat&color=green)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peylix&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats-baet-git-master-peylixs-projects.vercel.app/api?username=peylix&show_icons=true&theme=chartreuse-dark)](https://github.com/peylix/github-readme-stats) 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=peylix&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
