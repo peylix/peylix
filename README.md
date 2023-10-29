@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peylix
-- 👀 I’m interested in programming languages and deep learning.
-- 🌱 I’m currently learning Kotlin, Flask and PyTorch.
+- 👀 I’m interested in various areas.
+- 🌱 I’m currently learning Vue, Flask and PyTorch.
 - 📫 How to reach me: lisichen_2901@outlook.com or chensi.li@ucdconnect.ie
 
   
