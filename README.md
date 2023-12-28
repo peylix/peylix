@@ -6,9 +6,18 @@
   
 ![](https://komarev.com/ghpvc/?username=peylix&style=flat&color=green)
 
-[![Anurag's GitHub stats](https://github-readme-stats-baet-git-master-peylixs-projects.vercel.app/api?username=peylix&show_icons=true&theme=chartreuse-dark)](https://github.com/peylix/github-readme-stats) ![Top Langs](https://github-readme-stats-baet-git-master-peylixs-projects.vercel.app/api/top-langs/?username=peylix&layout=compact&size_weight=0.5&count_weight=0.5&theme=aura&langs_count=8)
+<p><img align="left" height="220" src="https://github-readme-stats-baet-git-master-peylixs-projects.vercel.app/api?username=peylix&show_icons=true&theme=chartreuse-dark" alt="peylix" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=peylix&theme=merko&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats-baet-git-master-peylixs-projects.vercel.app/api?username=peylix&show_icons=true&theme=chartreuse-dark)](https://github.com/peylix/github-readme-stats)  -->
+
+<p><img align="center" height="220" src="https://github-readme-stats-baet-git-master-peylixs-projects.vercel.app/api/top-langs/?username=peylix&layout=compact&size_weight=0.5&count_weight=0.5&theme=aura&langs_count=8" alt="peylix" /></p>
+
+<!-- ![Top Langs](https://github-readme-stats-baet-git-master-peylixs-projects.vercel.app/api/top-langs/?username=peylix&layout=compact&size_weight=0.5&count_weight=0.5&theme=aura&langs_count=8) -->
+
+<p><img align="center" height="315" src="https://github-readme-activity-graph.vercel.app/graph?username=peylix&theme=merko&area=true" /></p>
+
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=peylix&theme=merko&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
 
 
 
