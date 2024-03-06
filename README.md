@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peylix
 - 👀 I’m interested in various areas.
-- 🌱 I’m currently learning Vue, Flask and PyTorch.
+- 🌱 I’m currently learning Vue, Django and PyTorch.
 - 📫 How to reach me: lisichen_2901@outlook.com or chensi.li@ucdconnect.ie
 
   
@@ -14,7 +14,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats-baet-git-master-peylixs-projects.vercel.app/api/top-langs/?username=peylix&layout=compact&size_weight=0.5&count_weight=0.5&theme=aura&langs_count=8) -->
 
-<p><img align="center" height="315" src="https://github-readme-activity-graph.vercel.app/graph?username=peylix&theme=merko&area=true" /></p>
+<p><img align="center" height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=peylix&theme=merko&area=true" /></p>
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=peylix&theme=merko&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
