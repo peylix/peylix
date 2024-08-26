@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @peylix
-- 👀 I’m interested in various areas.
-- 🌱 I’m currently learning Vue, Django and PyTorch.
+- 👀 I’m interested in **Large Language Models**, **Retrieval-Augmented Generation** and **Fuzz Testing**.
+- 🌱 I’m currently learning **LangChain**, **React** and **Django**.
 - 📫 How to reach me: lisichen_2901@outlook.com or chensi.li@ucdconnect.ie
 
   
-![](https://komarev.com/ghpvc/?username=peylix&style=flat&color=green)
+![](https://komarev.com/ghpvc/?username=peylix&style=for-the-badge&color=brightgreen)
 
 <p><img align="left" height="200" src="https://github-readme-stats-baet-git-master-peylixs-projects.vercel.app/api?username=peylix&show_icons=true&theme=chartreuse-dark" alt="peylix" /></p>
 
