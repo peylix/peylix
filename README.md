@@ -1,7 +1,7 @@
-- 👋 Hi, I’m **Sichen Li**!
+## 👋 Hi, I’m Sichen Li!
 - 👀 I’m interested in **Large Language Models**, **Retrieval-Augmented Generation** and **their applications in various areas**.
 - 🌱 I’m currently learning **Model Context Protocol**, **React** and **Django**.
-- 📫 How to reach me: lisichen_2901 [at] outlook.com or chensi.li [at] ucdconnect.ie
+- 📫 How to reach me: lisichen_2901 [at] outlook [dot] com or chensi.li [at] ucdconnect [dot] ie
 
   
 ![](https://komarev.com/ghpvc/?username=peylix&style=for-the-badge&color=brightgreen)
