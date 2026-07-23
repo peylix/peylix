@@ -9,13 +9,13 @@ I'm an M.S. student in Computer Engineering at **NYU Tandon**.
   
 ![](https://komarev.com/ghpvc/?username=peylix&style=for-the-badge&color=brightgreen)
 
-<!-- Anurag's GitHub stats -->
-<p><img align="left" height="205" src="https://github-stats-extended-frontend-oqb9h2k93-peylixs-projects.vercel.app/api?username=peylix&show_icons=true&theme=vue" alt="peylix" /></p>
+<!-- Stats -->
+<p><img align="left" height="205" src="https://github-stats-extended-zeta.vercel.app/api?username=peylix&show_icons=true&theme=vue" alt="peylix" /></p>
 
 
 <!-- Top Langs -->
-<p><img align="center" height="205" src="https://github-stats-extended-frontend-oqb9h2k93-peylixs-projects.vercel.app/api/top-langs/?username=peylix&layout=compact&size_weight=0.5&count_weight=0.5&theme=vue&langs_count=8" alt="peylix" /></p>
+<p><img align="center" height="205" src="github-stats-extended-zeta.vercel.app/api/top-langs/?username=peylix&layout=compact&size_weight=0.5&count_weight=0.5&theme=vue&langs_count=8" alt="peylix" /></p>
 
 
-<!-- Ashutosh's github activity graph -->
+<!-- Activity Graph -->
 <p><img align="center" height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=peylix&theme=github-light&area=true" /></p>
