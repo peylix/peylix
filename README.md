@@ -14,7 +14,7 @@ I'm an M.S. student in Computer Engineering at **NYU Tandon**.
 
 
 <!-- Top Langs -->
-<p><img align="center" height="205" src="github-stats-extended-zeta.vercel.app/api/top-langs/?username=peylix&layout=compact&size_weight=0.5&count_weight=0.5&theme=vue&langs_count=8" alt="peylix" /></p>
+<p><img align="center" height="205" src="https://github-stats-extended-zeta.vercel.app/api/top-langs/?username=peylix&layout=compact&size_weight=0.5&count_weight=0.5&theme=vue&langs_count=8" alt="peylix" /></p>
 
 
 <!-- Activity Graph -->
