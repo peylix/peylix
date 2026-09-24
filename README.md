@@ -18,4 +18,4 @@ I'm an M.S. student in Computer Engineering at **NYU Tandon**.
 
 
 <!-- Activity Graph -->
-<p><img align="center" height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=peylix&theme=github-light&area=true" /></p>
+<p><img align="center" height="300" src="https://github-readme-activity-graph-seven-sandy.vercel.app/graph?username=peylix&theme=github-light&area=true" /></p>
