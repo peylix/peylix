@@ -2,7 +2,7 @@
 
 I'm an M.S. student in Computer Engineering at **NYU Tandon**.
 
-- 👀 I'm interested in **Large Language Models**, **AI4Healthcare**, and **multi-agent systems**
+- 👀 I'm interested in **multimodal generation**, **latent predictive learning**, **Agentic LLM systems**, and **AI4Healthcare**.
 - 🌱 Currently exploring how to make agentic systems reliable and efficient for domain-specific tasks
 - 📫 Reach me: sichen [dot] li [at] nyu [dot] edu
 
